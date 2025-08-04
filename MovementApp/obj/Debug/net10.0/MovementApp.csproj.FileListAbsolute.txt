@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\bin\Debug\net10.0\MovementApp.exe
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\bin\Debug\net10.0\MovementApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\bin\Debug\net10.0\MovementApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\bin\Debug\net10.0\MovementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\bin\Debug\net10.0\MovementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\refint\MovementApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\MovementApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\MovementApp\obj\Debug\net10.0\ref\MovementApp.dll

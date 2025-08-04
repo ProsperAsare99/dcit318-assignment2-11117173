@@ -1,2 +1,35 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+interface IMovable
+{
+    void Move();
+}
+
+class Car : IMovable
+{
+    public void Move()
+    {
+        Console.WriteLine("Car is moving");
+    }
+}
+
+class Bicycle : IMovable
+{
+    public void Move()
+    {
+        Console.WriteLine("Bicycle is moving");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        IMovable myCar = new Car();
+        IMovable myBicycle = new Bicycle();
+
+        Console.WriteLine("=== Transportation Movement ===");
+        myCar.Move();      // Output: Car is moving
+        myBicycle.Move();  // Output: Bicycle is moving
+    }
+}
