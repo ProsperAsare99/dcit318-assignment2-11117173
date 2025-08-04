@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\bin\Debug\net10.0\AnimalSoundOutputApp.exe
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\bin\Debug\net10.0\AnimalSoundOutputApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\bin\Debug\net10.0\AnimalSoundOutputApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\bin\Debug\net10.0\AnimalSoundOutputApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\bin\Debug\net10.0\AnimalSoundOutputApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\refint\AnimalSoundOutputApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\AnimalSoundOutputApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\AnimalSoundOutputApp\obj\Debug\net10.0\ref\AnimalSoundOutputApp.dll
