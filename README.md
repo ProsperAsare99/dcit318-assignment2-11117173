@@ -1,5 +1,5 @@
 # dcit318-assignment2-11117173
-# C# Projects – MovementApp, ShapeAreaApp, AnimalSoundApp
+ MovementApp, ShapeAreaApp, AnimalSoundApp
 
 ## Overview
 
