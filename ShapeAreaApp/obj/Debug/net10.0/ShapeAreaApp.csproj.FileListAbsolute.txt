@@ -1,0 +1,15 @@
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\bin\Debug\net10.0\ShapeAreaApp.exe
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\bin\Debug\net10.0\ShapeAreaApp.deps.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\bin\Debug\net10.0\ShapeAreaApp.runtimeconfig.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\bin\Debug\net10.0\ShapeAreaApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\bin\Debug\net10.0\ShapeAreaApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.AssemblyInfoInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.AssemblyInfo.cs
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.sourcelink.json
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\refint\ShapeAreaApp.dll
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.pdb
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ShapeAreaApp.genruntimeconfig.cache
+C:\Users\asare\.vscode\dcit318-assignment2-11117173\ShapeAreaApp\obj\Debug\net10.0\ref\ShapeAreaApp.dll
